@@ -4,8 +4,8 @@
   "description": "Invenio AI Career Platform — Groq backend",
   "main": "server_groq.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server_groq.js",
+    "dev": "node server_groq.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
